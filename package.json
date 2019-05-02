@@ -1,0 +1,25 @@
+{
+  "name": "hyper-monokai-theme",
+  "version": "1.0.0",
+  "description": "Monokai theme for hyper terminal. Only Styles",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/alexesba/hyper-monokai-theme.git"
+  },
+  "keywords": [
+    "hyper",
+    "hyper.app",
+    "hyperterm",
+    "monokai"
+  ],
+  "author": "Alejandro Espinoza B. <alexesba@gmail.com>",
+  "license": "GPL-3.0",
+  "bugs": {
+    "url": "https://github.com/alexesba/hyper-monokai-theme/issues"
+  },
+  "homepage": "https://github.com/alexesba/hyper-monokai-theme#readme"
+}
